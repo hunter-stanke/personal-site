@@ -1,9 +1,9 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "Hunter Stanke",
+  "short_name": "Hunter Stanke",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "rgba(40, 150, 87 ,1)",
+  "background_color": "rgba(40, 150, 87 ,1)",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
