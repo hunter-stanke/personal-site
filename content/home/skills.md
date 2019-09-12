@@ -23,8 +23,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  #image = "hja_lookout_sunset.jpg"  # Name of image in `static/img/`.
-  image = "crater_whitebark_clip.jpg"  # Name of image in `static/img/`.
+  image = "hja_lookout_sunset.jpg"  # Name of image in `static/img/`.
+  #image = "crater_whitebark_clip.jpg"  # Name of image in `static/img/`.
   image_darken = 0.4 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).

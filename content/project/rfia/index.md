@@ -7,6 +7,6 @@ image:
 summary: "An R package for estimating forest variables with the Forest Inventory and Analysis Database."
 tags:
 - Demo
-title: rFIA
+title: 'rFIA: Unlocking the FIA Database in R'
 ---
 

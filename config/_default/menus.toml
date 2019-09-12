@@ -24,8 +24,8 @@
   weight = 4
 
 [[main]]
-  name = "Consulting"
-  url = "#"
+  name = "Services"
+  url = "#services"
   weight = 5
 
 [[main]]

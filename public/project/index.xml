@@ -13,7 +13,25 @@
     </image>
     
     <item>
-      <title>rFIA</title>
+      <title>Disease Modeling with Stochastic Networks</title>
+      <link>/project/networkdisease/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/networkdisease/</guid>
+      <description>&lt;p&gt;Inter-individual contact is a key element affecting the transmission of infectious disease, and variation in contact structure can affect the probability, magnitude, and persistence of disease outbreaks. Chronic Wasting Disease (CWD) is a fatal, neurodegenerative disease affecting white-tailed deer in Michigan. Previous efforts to model the spread of CWD assume that all individuals behave the same and interact one another at a constant rate, thereby assuming a homogenous contact structure. As white-tailed deer display heterogenous social structure at the population level, we expect the assumption of homogenous contact structure inherent to many disease models may result in biased representations of disease dynamics. To advance understanding of how heterogeneity in contact structure may influence the dynamics of CWD in Michigan, we will: (1) characterize the spatial, temporal, and demographic factors affecting inter-individual contact rates and individual connectedness in white-tailed deer populations; and (2) develop network-based disease models to simulate disease-host systems and assess the influence of heterogenous contact structure on disease dynamics. We will obtain GPS data from a white-tailed deer movement study in the region of Michigan where CWD is known to occur, and infer inter-individual contacts as an overlap in space (&amp;lt; 10m) and time (within 30 minutes). We will employ Bayesian linear mixed-effects models to assess how various demographic, spatial, and temporal factors affect inter-individual contact rates and social network connectivity. We will then simulate white-tailed deer social networks with similar structures to those observed, and employ spatiotemporal network-based disease models to assess the influence of host social structure on the emergence and spread of CWD. Understanding how social connectivity varies across host demographics will allow managers to focus resources towards removal of individuals at high-risk of spreading disease, and our disease modeling will help define risks and uncertainty associated with management interventions that impact host contact structures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling Deer Dispersal with Agent Based Models</title>
+      <link>/project/dispersalabm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/dispersalabm/</guid>
+      <description>&lt;p&gt;Traditional methods to assess landscape connectivity often fail to address functional connectivity, that is they fail to consider the behavioral patterns and movement ecology of the species of interest. In contrast, agent based models (ABMs) easily accomodate complex behaviors, social interactions, and stochasticity in animal-environment interactions. Here we build a spatially explicity ABM to model deer disperal and assess functional connectivety between two disparate zones of Chronic Wasting Disease detection in Michigan.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>rFIA: Unlocking the FIA Database in R</title>
       <link>/project/rfia/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/rfia/</guid>
