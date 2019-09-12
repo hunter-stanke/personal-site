@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Hunter Stanke</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>Hunter Stanke</title>
+    <link>/authors/hunter-stanke/</link>
+      <atom:link href="/authors/hunter-stanke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hunter Stanke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <title>Hunter Stanke</title>
+      <link>/authors/hunter-stanke/</link>
     </image>
     
     <item>

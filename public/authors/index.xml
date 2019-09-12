@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Aaron S. Weed</title>
+      <link>/authors/aaron-s.-weed/</link>
+      <pubDate>Tue, 19 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>/authors/aaron-s.-weed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew O. Finley</title>
+      <link>/authors/andrew-o.-finley/</link>
+      <pubDate>Tue, 19 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>/authors/andrew-o.-finley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hunter Stanke</title>
+      <link>/authors/hunter-stanke/</link>
+      <pubDate>Tue, 19 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>/authors/hunter-stanke/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>admin</title>
@@ -33,7 +57,9 @@
       <link>/authors/hunter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/hunter/</guid>
-      <description>&lt;p&gt;I am a graudate student in the Geospatial Lab in the Department of Foresty at Michigan State University, and a current Graduate Research Fellow with the National Science Foundation. I am also the lead author and maintainer of &lt;a href=&#34;https://rfia.netlify.com&#34; target=&#34;_blank&#34;&gt;rFIA&lt;/a&gt;, an R package designed to unlock the national Forest Inventory and Analysis database in R. Although I am broadly interested in applied ecological research and forest management, my specific research interests lie at the intersection of disturbance, landscape, and ecosystem ecology. Beginning in 2020, I plan to pursue a PhD in Quantitative Ecology and Resource Management.&lt;/p&gt;
+      <description>&lt;p&gt;I am a graudate student in the &lt;a href=&#34;http://blue.for.msu.edu/&#34; target=&#34;_blank&#34;&gt;Geospatial Lab&lt;/a&gt; in the Department of Foresty at Michigan State University, and a current Graduate Research Fellow with the National Science Foundation. I am also the lead author and maintainer of &lt;a href=&#34;https://rfia.netlify.com&#34; target=&#34;_blank&#34;&gt;rFIA&lt;/a&gt;, an R package designed to unlock the national Forest Inventory and Analysis (FIA) database in R.&lt;/p&gt;
+
+&lt;p&gt;I am broadly interested in applied ecological research and forest management, though my specific research interests lie at the intersection of disturbance, landscape, and ecosystem ecology. Beginning in 2020, I plan to pursue a PhD in Forest Science &amp;amp; Quantitative Ecology and Resource Management.&lt;/p&gt;
 </description>
     </item>
     

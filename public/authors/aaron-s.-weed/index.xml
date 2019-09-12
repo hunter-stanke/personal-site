@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron S. Weed | Hunter Stanke</title>
+    <link>/authors/aaron-s.-weed/</link>
+      <atom:link href="/authors/aaron-s.-weed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aaron S. Weed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Aaron S. Weed</title>
+      <link>/authors/aaron-s.-weed/</link>
+    </image>
+    
+    <item>
+      <title>rFIA: Unlocking the Potential of the FIADB in R</title>
+      <link>/talk/example/</link>
+      <pubDate>Tue, 19 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
