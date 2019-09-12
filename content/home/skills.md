@@ -8,6 +8,7 @@ weight = 3  # Order that this section will appear.
 title = "Skills"
 subtitle = ""
 
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
