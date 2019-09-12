@@ -20,7 +20,7 @@
   
 [[main]]
   name = "rFIA"
-  url = "http://blue.for.msu.edu/rfia/"
+  url = "https://rfia.netlify.com/"
   weight = 4
 
 [[main]]
