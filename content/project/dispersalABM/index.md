@@ -12,7 +12,7 @@ links:
 slides:
 summary: 
 tags:
-title: Modeling Deer Dispersal with Agent Based Models
+title: Agent Based Models for Deer Dispersal Simulation
 url_code: "files/Dispersal_ABM.zip"
 url_pdf: "files/ABM_Report.pdf"
 url_video: "files/dispersalABM.pdf"
