@@ -11,7 +11,7 @@ interval = 2800
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "calc(100vh - 480px)"
+height = "calc(100vh - 300px)"
 
   
 
@@ -34,7 +34,11 @@ height = "calc(100vh - 480px)"
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  overlay_img = "crater_sunset_clip.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "sisters_top.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  overlay_img = "ss_glacier_full.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -53,9 +57,6 @@ height = "calc(100vh - 480px)"
   overlay_img = "dur.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
   
-[[item]]
-  overlay_img = "tfj_front.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 [[item]]
   overlay_img = "hja_lookout_sunset.jpg"  # Image path relative to your `static/img/` folder.

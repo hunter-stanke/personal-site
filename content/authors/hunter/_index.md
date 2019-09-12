@@ -48,5 +48,5 @@ user_groups:
 
 ---
 
-Hunter is a Gradaute Research Fellow with the National Science Foundation and Master's student at Michigan State University. He is the lead author and maintainer of `rFIA`. Hunter is interested in disturbance and landscape ecology, and plans to pursue a PhD in Quantitative Ecology and Resource Management beginning in 2020. 
+I am a graudate student in the Geospatial Lab in the Department of Foresty at Michigan State University, and a current Graduate Research Fellow with the National Science Foundation. I am also the lead author and maintainer of <a href="https://rfia.netlify.com" target="_blank">rFIA</a>, an R package designed to unlock the national Forest Inventory and Analysis database in R. Although I am broadly interested in applied ecological research and forest management, my specific research interests lie at the intersection of disturbance, landscape, and ecosystem ecology. Beginning in 2020, I plan to pursue a PhD in Quantitative Ecology and Resource Management. 
 
