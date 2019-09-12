@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia Jones | Hunter Stanke</title>
+    <link>/authors/julia-jones/</link>
+      <atom:link href="/authors/julia-jones/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julia Jones</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Aug 2018 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Julia Jones</title>
+      <link>/authors/julia-jones/</link>
+    </image>
+    
+    <item>
+      <title>Vertical Stream Concavity as a Predictor of Solute Transport Behavior in Mountain Headwater Streams</title>
+      <link>/talk/eisi/</link>
+      <pubDate>Fri, 24 Aug 2018 13:00:00 +0000</pubDate>
+      <guid>/talk/eisi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

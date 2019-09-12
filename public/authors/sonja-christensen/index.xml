@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sonja Christensen | Hunter Stanke</title>
+    <link>/authors/sonja-christensen/</link>
+      <atom:link href="/authors/sonja-christensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sonja Christensen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Sep 2017 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sonja Christensen</title>
+      <link>/authors/sonja-christensen/</link>
+    </image>
+    
+    <item>
+      <title>Connecting the Dots: A Landscape Approach for Michigan CWD</title>
+      <link>/talk/lcp_tws/</link>
+      <pubDate>Sat, 23 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>/talk/lcp_tws/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Recieved Best Student Poster Award (poster adapted from attached slides).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
