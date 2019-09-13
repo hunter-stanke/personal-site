@@ -55,7 +55,7 @@ In addition to my academic work, I offer a variety of consultation services rang
 - rFIA Project Development & Applications
 - Shiny Web App Development
 - Project Website Development
-- Forest Management Plans
-- Timber Sale Preperation & Administration
-- Ecological Restoration (tallgrass prairie & oak savannah)
+- Forest Management Preparation 
+- Timber Sale Preparation & Administration
+- Ecological Restoration (tall grass prairie & oak savannah)
 
