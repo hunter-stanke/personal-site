@@ -50,7 +50,7 @@ title = "Services"
 
 +++
 
-In addition to my academic work, I offer a variety of consulting services ranging from ecological restoration to developing workflows and analytical/visualation extensions for the <a href="https://rfia.netlify.com" target="_blank">rFIA</a> package. Contact me with your specific project needs, and see how I can help!
+In addition to my academic work, I offer a variety of consultation services ranging from ecological restoration to developing workflows and analytical/visualization extensions for the <a href="https://rfia.netlify.com" target="_blank">rFIA</a> package. Contact me with your specific project needs, and see how I can help!
 
 - rFIA Project Development & Applications
 - Shiny Web App Development
