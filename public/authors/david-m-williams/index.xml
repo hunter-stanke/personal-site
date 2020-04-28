@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David M Williams | Hunter Stanke</title>
+    <link>/authors/david-m-williams/</link>
+      <atom:link href="/authors/david-m-williams/index.xml" rel="self" type="application/rss+xml" />
+    <description>David M Williams</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>David M Williams</title>
+      <link>/authors/david-m-williams/</link>
+    </image>
+    
+    <item>
+      <title>Connecting the dots: landscape connectivity between locations of chronic wasting disease detection</title>
+      <link>/publication/lcp/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/lcp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

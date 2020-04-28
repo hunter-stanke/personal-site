@@ -14,6 +14,11 @@
 #   weight = 2
 
 [[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 2
+
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 3
@@ -22,11 +27,6 @@
   name = "rFIA"
   url = "https://rfia.netlify.com/"
   weight = 4
-
-[[main]]
-  name = "Services"
-  url = "#services"
-  weight = 5
 
 [[main]]
   name = "Contact"

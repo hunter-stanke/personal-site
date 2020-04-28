@@ -5,6 +5,9 @@ bio: My research interests include disturbance, forest, and landsacpe ecology, a
 
 education:
   courses:
+  - course: PhD Environmental and Forest Science
+    institution: Univeristy of Washington
+    year: Current
   - course: MS Forest Science
     institution: Michigan State Univeristy
     year: 2020
@@ -23,32 +26,38 @@ interests:
 
 name: Hunter Stanke
 organizations:
-- name: Michigan State Univeristy
-  url: ""
-role: Graduate Student
+- name: Univeristy of Washington
+  url: "https://sefs.uw.edu/"
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/HunterStanke
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=T4AqKTwAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/hunter-stanke
 - icon: cv
   icon_pack: ai
-  link: 'files/stanke-CV-2019.pdf'
+  link: 'files/stanke_CV.pdf'
 superuser: true
 user_groups:
 - Grad Students
 
 ---
 
-I am a graudate student in the <a href="http://blue.for.msu.edu/" target="_blank">Geospatial Lab</a> in the Department of Foresty at Michigan State University, and a current Graduate Research Fellow with the National Science Foundation. I am also the lead author and maintainer of <a href="https://rfia.netlify.com" target="_blank">rFIA</a>, an R package designed to unlock the national Forest Inventory and Analysis (FIA) database in R. 
+I am a PhD student in the <a href="https://depts.washington.edu/bjhlab/" target="_blank">The Harvey Lab</a> and the <a href="http://www.thebutmanlab.com/" target="_blank">Ecosystem Biogeochemistry Group</a> in School of Environmental and Forest Science at the University of Washington, and current Graduate Research Fellow with the National Science Foundation. 
 
-I am broadly interested in applied ecological research and forest management, though my specific research interests lie at the intersection of disturbance, landscape, and ecosystem ecology. Beginning in 2020, I plan to pursue a PhD in Forest Science & Quantitative Ecology and Resource Management. 
+My research interests lie at the intersection of disturbance, landscape, and ecosystem ecology. While still in development, my PhD research will be broadly focused on carbon consequences of forest disturbance and understanding climatic controls on forest demographic processes across multiple scales. I completed an MS in Forestry at Michigan State University, where my research focused on software development for the USFS Forest Inventory and Analysis program and estimation of broad-scale demographic consequences of forest disturbance and climate for top western tree species. 
+
+I am also the lead author and maintainer of <a href="https://rfia.netlify.com" target="_blank">rFIA</a>, an R package designed to unlock the national Forest Inventory and Analysis (FIA) database in R. Check out <a href="https://rfia.netlify.com" target="_blank">our website</a> for more information, tutorials, and documentation on rFIA. You can also find us on <a href="https://CRAN.R-project.org/package=rFIA" target="_blank">CRAN</a> and <a href="https://github.com/hunter-stanke/rFIA" target="_blank">GitHub</a>, and in a recent article in <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364815219311089?via%3Dihub" target="_blank">Environmental Modeling and Software</a>. For bug reports or feature requests, please see our <a href="https://github.com/hunter-stanke/rFIA/issues" target="_blank">active issues page</a>. 
+
+
+
+
 

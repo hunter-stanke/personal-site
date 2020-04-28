@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://blue.for.msu.edu/rfia
+external_link: 'https://rfia.netlify.app/'
 image:
   caption: 
   focal_point: smart

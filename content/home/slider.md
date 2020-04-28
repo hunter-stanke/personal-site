@@ -18,11 +18,15 @@ height = "calc(100vh - 300px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  overlay_img = "oly_quinalt.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "crater_whitebark.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  overlay_img = "bur.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  overlay_img = "bur.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "oly_quinalt.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -32,17 +36,9 @@ height = "calc(100vh - 300px)"
 [[item]]
   overlay_img = "lupine.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
-  
-[[item]]
-  overlay_img = "psf_moss.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 [[item]]
   overlay_img = "ss_glacier_full.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
-
-[[item]]
-  overlay_img = "sisters_top.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -52,21 +48,9 @@ height = "calc(100vh - 300px)"
 [[item]]
   overlay_img = "ausable2017.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
-
-[[item]]
-  overlay_img = "idLookout.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
   
 [[item]]
   overlay_img = "dur.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
-  
-[[item]]
-  overlay_img = "crater_whitebark.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
-  
-[[item]]
-  overlay_img = "sd_lookout.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
   
 

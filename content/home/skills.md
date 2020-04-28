@@ -2,10 +2,11 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "Skills"
+
 subtitle = ""
 
 
@@ -23,12 +24,12 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "hja_lookout_sunset.jpg"  # Name of image in `static/img/`.
+  #image = "hja_lookout_sunset.jpg"  # Name of image in `static/img/`.
   #image = "crater_whitebark_clip.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.4 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image_darken = 0.4 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Showcase personal skills or business features.
 # 
@@ -45,7 +46,7 @@ subtitle = ""
 [[feature]]
   icon = "tree"
   icon_pack = "fas"
-  name = "Forest Management"
+  name = "Forest Ecology &\n Management"
   description = ""
   
 [[feature]]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grant M Domke | Hunter Stanke</title>
+    <link>/authors/grant-m-domke/</link>
+      <atom:link href="/authors/grant-m-domke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grant M Domke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Grant M Domke</title>
+      <link>/authors/grant-m-domke/</link>
+    </image>
+    
+    <item>
+      <title>Over half of top tree species in decline in the western United States</title>
+      <link>/publication/gcb_fsi/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gcb_fsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rFIA: An R package for estimation of forest attributes with the US Forest Inventory and Analysis database</title>
+      <link>/publication/rfia_ems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/rfia_ems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

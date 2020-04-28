@@ -1,265 +1,292 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/courses/example/example1/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/courses/example/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/courses/example/example2/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/aaron-s.-weed/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/andrew-o.-finley/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/hunter-stanke/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-09-12T16:27:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/rfia_fiastakholders/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-09-12T16:23:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/adam-ward/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/julia-jones/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/steve-wondzell/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/eisi/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/lcp_tws/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/david-williams/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jonathan-cook/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sonja-christensen/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/william-porter/</loc>
-    <lastmod>2019-09-12T15:09:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/dispersalabm/</loc>
-    <lastmod>2019-09-12T16:27:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2019-09-12T16:23:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/networkdisease/</loc>
-    <lastmod>2019-09-12T16:23:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2019-09-12T16:27:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/rfia/</loc>
-    <lastmod>2019-09-12T16:23:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/demo/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/hunter/</loc>
-    <lastmod>2019-09-12T14:33:50-04:00</lastmod>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
+    <loc>/authors/aaron-s-weed/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-o-finley/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lcp/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-m-macfarlane/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-m-williams/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/grant-m-domke/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hunter-stanke/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jonathan-d-cook/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gcb_fsi/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sonja-christensen/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aaron-s.-weed/</loc>
+    <lastmod>2019-11-19T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-o.-finley/</loc>
+    <lastmod>2019-11-19T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
-    <lastmod>2019-09-10T08:47:07-04:00</lastmod>
+    <lastmod>2019-11-19T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/rfia_fiastakholders/</loc>
+    <lastmod>2019-11-19T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/adam-ward/</loc>
+    <lastmod>2018-08-24T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julia-jones/</loc>
+    <lastmod>2018-08-24T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/steve-wondzell/</loc>
+    <lastmod>2018-08-24T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/eisi/</loc>
+    <lastmod>2018-08-24T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/lcp_tws/</loc>
+    <lastmod>2017-09-23T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-williams/</loc>
+    <lastmod>2017-09-23T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jonathan-cook/</loc>
+    <lastmod>2017-09-23T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/william-porter/</loc>
+    <lastmod>2017-09-23T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/dispersalabm/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/networkdisease/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/rfia/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/brian-f-walters/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/rfia_ems/</loc>
   </url>
   
 </urlset>

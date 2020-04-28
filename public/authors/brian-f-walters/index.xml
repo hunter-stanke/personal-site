@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian F Walters | Hunter Stanke</title>
+    <link>/authors/brian-f-walters/</link>
+      <atom:link href="/authors/brian-f-walters/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian F Walters</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Brian F Walters</title>
+      <link>/authors/brian-f-walters/</link>
+    </image>
+    
+    <item>
+      <title>rFIA: An R package for estimation of forest attributes with the US Forest Inventory and Analysis database</title>
+      <link>/publication/rfia_ems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/rfia_ems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
