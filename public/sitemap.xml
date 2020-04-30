@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -15,11 +15,6 @@
   <url>
     <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/hunter/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -64,6 +59,11 @@
   
   <url>
     <loc>/authors/hunter-stanke/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,11 +123,6 @@
   </url>
   
   <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -165,11 +160,6 @@
   <url>
     <loc>/talk/eisi/</loc>
     <lastmod>2018-08-24T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -278,11 +268,19 @@
   </url>
   
   <url>
+    <loc>/authors/hunter/</loc>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
   </url>
   
   <url>
     <loc>/authors/brian-f-walters/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
   </url>
   
   <url>

@@ -18,7 +18,7 @@ height = "calc(100vh - 300px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  overlay_img = "crater_whitebark.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "craterWB1_clip.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
   
 [[item]]
