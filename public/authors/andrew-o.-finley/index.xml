@@ -5,12 +5,20 @@
     <link>/authors/andrew-o.-finley/</link>
       <atom:link href="/authors/andrew-o.-finley/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrew O. Finley</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Andrew O. Finley</title>
       <link>/authors/andrew-o.-finley/</link>
     </image>
+    
+    <item>
+      <title>Advancing broad-scale forest health evaluation and monitoring with rFIA</title>
+      <link>/publication/rfia_jof/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rfia_jof/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>rFIA: Unlocking the Potential of the FIADB in R</title>

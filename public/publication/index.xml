@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Connecting the dots: landscape connectivity between locations of chronic wasting disease detection</title>
-      <link>/publication/lcp/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/lcp/</guid>
+      <title>Advancing broad-scale forest health evaluation and monitoring with rFIA</title>
+      <link>/publication/rfia_jof/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rfia_jof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Over half of top tree species in decline in the western United States</title>
-      <link>/publication/gcb_fsi/</link>
+      <link>/publication/fsi_natcomm/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/gcb_fsi/</guid>
+      <guid>/publication/fsi_natcomm/</guid>
       <description></description>
     </item>
     

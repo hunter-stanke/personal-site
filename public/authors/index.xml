@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Andrew O. Finley</title>
+      <link>/authors/andrew-o.-finley/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/andrew-o.-finley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grant M. Domke</title>
+      <link>/authors/grant-m.-domke/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/grant-m.-domke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hunter Stanke</title>
+      <link>/authors/hunter-stanke/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/hunter-stanke/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aaron S Weed</title>
@@ -37,14 +61,6 @@
     </item>
     
     <item>
-      <title>David M Williams</title>
-      <link>/authors/david-m-williams/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/david-m-williams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Grant M Domke</title>
       <link>/authors/grant-m-domke/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
@@ -53,42 +69,10 @@
     </item>
     
     <item>
-      <title>Hunter Stanke</title>
-      <link>/authors/hunter-stanke/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/hunter-stanke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan D Cook</title>
-      <link>/authors/jonathan-d-cook/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jonathan-d-cook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sonja Christensen</title>
-      <link>/authors/sonja-christensen/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/sonja-christensen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aaron S. Weed</title>
       <link>/authors/aaron-s.-weed/</link>
       <pubDate>Tue, 19 Nov 2019 13:00:00 +0000</pubDate>
       <guid>/authors/aaron-s.-weed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andrew O. Finley</title>
-      <link>/authors/andrew-o.-finley/</link>
-      <pubDate>Tue, 19 Nov 2019 13:00:00 +0000</pubDate>
-      <guid>/authors/andrew-o.-finley/</guid>
       <description></description>
     </item>
     
@@ -141,6 +125,14 @@
     </item>
     
     <item>
+      <title>Sonja Christensen</title>
+      <link>/authors/sonja-christensen/</link>
+      <pubDate>Sat, 23 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>/authors/sonja-christensen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>William Porter</title>
       <link>/authors/william-porter/</link>
       <pubDate>Sat, 23 Sep 2017 13:00:00 +0000</pubDate>
@@ -155,9 +147,9 @@
       <guid>/authors/hunter/</guid>
       <description>&lt;p&gt;I am a PhD student in the &lt;a href=&#34;https://depts.washington.edu/bjhlab/&#34; target=&#34;_blank&#34;&gt;The Harvey Lab&lt;/a&gt; and the &lt;a href=&#34;http://www.thebutmanlab.com/&#34; target=&#34;_blank&#34;&gt;Ecosystem Biogeochemistry Group&lt;/a&gt; in School of Environmental and Forest Science at the University of Washington, and current Graduate Research Fellow with the National Science Foundation.&lt;/p&gt;
 
-&lt;p&gt;My research interests lie at the intersection of disturbance, landscape, and ecosystem ecology. While still in development, my PhD research will be broadly focused on carbon consequences of forest disturbance and understanding climatic controls on forest demographic processes across multiple scales. I completed an MS in Forestry at Michigan State University, where my research focused on software development for the USFS Forest Inventory and Analysis program and estimation of broad-scale demographic consequences of forest disturbance and climate for top western tree species.&lt;/p&gt;
+&lt;p&gt;My research interests lie at the intersection of disturbance, landscape, and ecosystem ecology though I am broadly interested in integrating field studies and &amp;ldquo;big data&amp;rdquo; to solve pressing issues in forest management and ecology. My current work involves quantifying forest structural restoration needs in the Pacific Northwest, specifically detecting and attributing multidecadal changes in the &amp;ldquo;ecological departure&amp;rdquo; of forest landscapes in the region. I am also leading efforts to advance understanding of the consequences of disturbance, climate, and management legacies on temperate forest demography and biomass dynamics across multiple scales.&lt;/p&gt;
 
-&lt;p&gt;I am also the lead author and maintainer of &lt;a href=&#34;https://rfia.netlify.com&#34; target=&#34;_blank&#34;&gt;rFIA&lt;/a&gt;, an R package designed to unlock the national Forest Inventory and Analysis (FIA) database in R. Check out &lt;a href=&#34;https://rfia.netlify.com&#34; target=&#34;_blank&#34;&gt;our website&lt;/a&gt; for more information, tutorials, and documentation on rFIA. You can also find us on &lt;a href=&#34;https://CRAN.R-project.org/package=rFIA&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt; and &lt;a href=&#34;https://github.com/hunter-stanke/rFIA&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;, and in a recent article in &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1364815219311089?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Environmental Modeling and Software&lt;/a&gt;. For bug reports or feature requests, please see our &lt;a href=&#34;https://github.com/hunter-stanke/rFIA/issues&#34; target=&#34;_blank&#34;&gt;active issues page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am also the lead author and maintainer of &lt;a href=&#34;https://rfia.netlify.com&#34; target=&#34;_blank&#34;&gt;rFIA&lt;/a&gt;, an R package designed to increase the accessibility and use of the USFS Forest Inventory and Analysis (FIA) Database. Check out &lt;a href=&#34;https://rfia.netlify.com&#34; target=&#34;_blank&#34;&gt;our website&lt;/a&gt; for more information, tutorials, and documentation on rFIA. You can also find us on &lt;a href=&#34;https://CRAN.R-project.org/package=rFIA&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt; and &lt;a href=&#34;https://github.com/hunter-stanke/rFIA&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;, and in a recent article in &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1364815219311089?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Environmental Modeling and Software&lt;/a&gt;. For bug reports or feature requests, please see our &lt;a href=&#34;https://github.com/hunter-stanke/rFIA/issues&#34; target=&#34;_blank&#34;&gt;active issues page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

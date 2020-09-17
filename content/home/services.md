@@ -2,11 +2,11 @@
 # blank widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 8  # Order that this section will appear.
 #hero_media = "rLogo.png"
 
-title = "Services"
+title = "Consulting Services"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,12 +50,20 @@ title = "Services"
 
 +++
 
-In addition to my academic work, I offer a variety of consultation services ranging from ecological restoration to developing workflows and analytical/visualization extensions for the <a href="https://rfia.netlify.com" target="_blank">rFIA</a> package. Contact me with your specific project needs, and see how I can help!
+<style>
+body {
+text-align: left}
+</style>
 
-- rFIA Project Development & Applications
-- Shiny Web App Development
-- Project Website Development
-- Forest Management Preparation 
-- Timber Sale Preparation & Administration
-- Ecological Restoration (tall grass prairie & oak savannah)
+<img style="float: right;" src="/img/carbonCONUS.png" hspace = 50 vspace = 75, width = 500>
 
+<style>
+body {
+text-align: left}
+</style>
+
+Interested in using the USFS Forest Inventory and Analysis (FIA) Database in your work, but lost on where to start? Contact me with your specific project needs, and see how I can help!
+
+The FIA Database is among the richest ecological datasets in the world, with primary applications in forest health monitoring, carbon accounting, remote sensing, and broad-scale timber product monitoring. Despite being publicly available, complexity in database structure, data coding, and sampling design make the FIA Database extremely difficult to access - even for experienced users. 
+
+As the lead author and maintainer of the <a href="https://rfia.netlify.app" target="_blank">rFIA R package</a>, I have spent countless hours trudging through the depths of the FIA Database - improving access to FIA's existing capacity and developing new, improved methods for estimation and forest health evaluation. With this experience in hand, I offer a wide variety of data and analytic services for organizations interested in using FIA data to improve their own work. Contact me to see how I can help!
