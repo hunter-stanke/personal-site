@@ -20,7 +20,7 @@ publishDate: "2020-27-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Environmental Modelling and Software"
+publication: "Environmental Modelling and Software"
 publication_short: ""
 
 abstract: Forest Inventory and Analysis (FIA) is a US Department of Agriculture Forest Service program that aims to monitor changes in forests across the US. FIA hosts one of the largest ecological datasets in the world, though its complexity limits access for many potential users. rFIA is an R package designed to simplify the estimation of forest attributes using data collected by the FIA Program. Specifically, rFIA improves access to the spatio-temporal estimation capacity of the FIA Database via space–time indexed summaries of forest variables within user-defined population boundaries (e.g., geographic, temporal, biophysical). The package implements multiple design-based estimators, and has been validated against official estimates and sampling errors produced by the FIA Program. We demonstrate the utility of rFIA by assessing changes in abundance and mortality rates of ash (Fraxinus spp.) populations in the Lower Peninsula of Michigan following the establishment of emerald ash borer (_Agrilus planipennis_).
