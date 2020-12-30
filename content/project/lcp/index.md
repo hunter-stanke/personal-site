@@ -12,7 +12,7 @@ links:
 slides:
 summary: 
 tags:
-title: "Connecting the dots: landscape connectivity between locations of chronic wasting disease detection"
+title: "Quantifying landscape connectivity between locations of CWD detection"
 #url_code: "files/Dispersal_ABM.zip"
 #url_pdf: "files/ABM_Report.pdf"
 #url_video: "files/dispersalABM.pdf"

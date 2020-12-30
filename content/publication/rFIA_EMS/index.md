@@ -30,7 +30,7 @@ summary:
 
 tags:
 #- Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""

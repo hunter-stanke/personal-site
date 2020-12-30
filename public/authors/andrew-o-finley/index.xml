@@ -5,7 +5,7 @@
     <link>/authors/andrew-o-finley/</link>
       <atom:link href="/authors/andrew-o-finley/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrew O Finley</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Andrew O Finley</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Over half of top tree species in decline in the western United States</title>
+      <title>Opportunities for small area estimation with rFIA</title>
+      <link>/talk/smallareawg/</link>
+      <pubDate>Fri, 02 Oct 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/smallareawg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Over half of western United States&#39; most abundant tree species in decline</title>
       <link>/publication/fsi_natcomm/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/fsi_natcomm/</guid>
