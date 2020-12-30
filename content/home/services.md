@@ -52,10 +52,10 @@ title = "Consulting Services"
 
 <style>
 body {
-text-align: left}
+text-align: right}
 </style>
 
-<img style="float: right;" src="/img/carbonCONUS.png" hspace = 50 vspace = 75, width = 500>
+<img style="float: right; padding: 35px;" src="/img/snagModel.png", hspace = 0, width = 500>
 
 <style>
 body {
