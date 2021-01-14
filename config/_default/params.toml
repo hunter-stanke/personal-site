@@ -27,7 +27,7 @@ description = "Hunter Stanke"
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "HunterStanke"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -67,7 +67,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "stankehu@msu.edu"
+email = "stankehu@uw.edu"
 phone = "269-221-4745"
 address = "480 Wilson Road, Room 126 <br> East Lansing, MI 48824-6402"
 

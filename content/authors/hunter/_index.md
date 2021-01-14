@@ -8,7 +8,7 @@ education:
   - course: PhD Environmental and Forest Science
     institution: Univeristy of Washington
     year: Current
-  - course: MS Forest Science
+  - course: MS Forestry
     institution: Michigan State Univeristy
     year: 2020
   - course: BS Forestry
@@ -19,8 +19,9 @@ email: "stankehu@uw.edu"
 
 interests:
 - Disturbance & Landscape Ecology
-- Spatial Analysis
-- Forest Management 
+- Forest Management & Decision Science
+- Tree Demography
+- Quantitative Silviculture
 
 
 
@@ -51,9 +52,9 @@ user_groups:
 
 ---
 
-I am a PhD student in the <a href="https://depts.washington.edu/bjhlab/" target="_blank">The Harvey Lab</a> and the <a href="http://www.thebutmanlab.com/" target="_blank">Ecosystem Biogeochemistry Group</a> in School of Environmental and Forest Science at the University of Washington, and current Graduate Research Fellow with the National Science Foundation. 
+I am an applied forest ecologist and PhD student in the <a href="https://depts.washington.edu/bjhlab/" target="_blank">The Harvey Lab</a> at the University of Washington, and current Graduate Research Fellow with the National Science Foundation. 
 
-My research interests lie at the intersection of disturbance, landscape, and ecosystem ecology though I am broadly interested in integrating field studies and "big data" to solve pressing issues in forest management and ecology. My current work involves quantifying forest structural restoration needs in the Pacific Northwest, specifically detecting and attributing multidecadal changes in the "ecological departure" of forest landscapes in the region. I am also leading efforts to advance understanding of the consequences of disturbance, climate, and management legacies on temperate forest demography and biomass dynamics across multiple scales.
+My research interests lie at the intersection of disturbance, landscape, and ecosystem ecology and I am broadly interested in integrating field studies and "big data" to solve pressing issues in forest management and ecology. My current work involves quantifying forest structural restoration needs in the Pacific Northwest, specifically detecting and attributing multidecadal changes in the "ecological departure" of forest landscapes in the region. I am also leading efforts to advance understanding of the consequences of disturbance, climate, and management legacies on temperate forest demography and biomass dynamics across multiple scales.
 
 I am also the lead author and maintainer of <a href="https://rfia.netlify.com" target="_blank">rFIA</a>, an R package designed to increase the accessibility and use of the USFS Forest Inventory and Analysis (FIA) Database. Check out <a href="https://rfia.netlify.com" target="_blank">our website</a> for more information, tutorials, and documentation on rFIA. You can also find us on <a href="https://CRAN.R-project.org/package=rFIA" target="_blank">CRAN</a> and <a href="https://github.com/hunter-stanke/rFIA" target="_blank">GitHub</a>, and in a recent article in <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364815219311089?via%3Dihub" target="_blank">Environmental Modeling and Software</a>. For bug reports or feature requests, please see our <a href="https://github.com/hunter-stanke/rFIA/issues" target="_blank">active issues page</a>. 
 
