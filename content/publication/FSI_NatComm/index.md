@@ -7,7 +7,7 @@ authors:
 - Aaron S Weed
 - David M Macfarlane
 
-date: "2020-04-27T00:00:00Z"
+date: "2021-01-19T00:00:00Z"
 doi: "10.1038/s41467-020-20678-z"
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: 
+url_pdf: https://rdcu.be/cdPJ6
 url_code: https://github.com/hunter-stanke/Code-repository---NCOMMS-20-20430
 #url_dataset: '#'
 #url_poster: '#'
