@@ -3,7 +3,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 8  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 #hero_media = "rLogo.png"
 
 title = "Consulting Services"
@@ -19,7 +19,7 @@ title = "Consulting Services"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  #color = '#f8f9f9'
+  color = '#F9FCFD'
   
   # Background gradient.
   #gradient_start = "#4bb4e3"
@@ -64,4 +64,4 @@ My services include, but are not limited to:
 
 **As the lead author and maintainer of the <a href="https://rfia.netlify.app" target="_blank">rFIA R package</a>, I have developed unique expertise and familiarity with the <a href="https://www.fia.fs.fed.us/" target="_blank">USFS Forest Inventory and Analysis (FIA) Database</a>.** The FIA Database is among the richest ecological datasets in the world, with primary applications in forest health monitoring, carbon accounting, remote sensing, and broad-scale timber product monitoring. Despite being publicly available, complexity in database structure, data coding, and sampling design make the FIA Database extremely difficult to access - even for experienced users. 
 
-_**Contact me (information below) to see how I can help!**_
+**<a href="#contact">Contact me</a> to see how I can help!**
