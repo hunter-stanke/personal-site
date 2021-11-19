@@ -6,7 +6,7 @@ authors:
 - Grant M. Domke
 
 date: "2020-09-01T00:00:00Z"
-doi: ""
+doi: "10.2737/SRS-GTR-261"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2020-04-27T00:00:00Z"
@@ -15,7 +15,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Advancing broad-scale forest health evaluation and monitoring with rFIA"
@@ -33,8 +33,8 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: 
-#url_code: '#'
+url_pdf: https://www.fs.usda.gov/treesearch/pubs/62836
+url_code: https://github.com/hunter-stanke/2020_FHM_Chapter_code
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''

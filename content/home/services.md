@@ -10,7 +10,7 @@ title = "Consulting Services"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = '1'
+  columns = '2'
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -50,20 +50,18 @@ title = "Consulting Services"
 
 +++
 
-<style>
-body {
-text-align: right}
-</style>
 
-<img style="float: right; padding: 35px;" src="/img/snagModel.png", hspace = 0, width = 500>
+**I help firms leverage data (big and small) and analytics to improve their decision making processes**. Many of my clients come from the forest products industry and natural climate solutions space, and I particularly enjoy drawing on my background in forestry to design solutions to environmental and resource management problems. 
 
-<style>
-body {
-text-align: left}
-</style>
+My services include, but are not limited to: 
 
-Interested in using the USFS Forest Inventory and Analysis (FIA) Database in your work, but lost on where to start? Contact me with your specific project needs, and see how I can help!
+  - R programming (scripting, package development, automation)
+  - Statistical modeling and ML model development
+  - Forest inventory/ biometrics
+  - Data management
+  - Technical writing and editing
+  - Data visualization
 
-The FIA Database is among the richest ecological datasets in the world, with primary applications in forest health monitoring, carbon accounting, remote sensing, and broad-scale timber product monitoring. Despite being publicly available, complexity in database structure, data coding, and sampling design make the FIA Database extremely difficult to access - even for experienced users. 
+**As the lead author and maintainer of the <a href="https://rfia.netlify.app" target="_blank">rFIA R package</a>, I have developed unique expertise and familiarity with the <a href="https://www.fia.fs.fed.us/" target="_blank">USFS Forest Inventory and Analysis (FIA) Database</a>.** The FIA Database is among the richest ecological datasets in the world, with primary applications in forest health monitoring, carbon accounting, remote sensing, and broad-scale timber product monitoring. Despite being publicly available, complexity in database structure, data coding, and sampling design make the FIA Database extremely difficult to access - even for experienced users. 
 
-As the lead author and maintainer of the <a href="https://rfia.netlify.app" target="_blank">rFIA R package</a>, I have spent countless hours trudging through the depths of the FIA Database - improving access to FIA's existing capacity and developing new, improved methods for estimation and forest health evaluation. With this experience in hand, I offer a wide variety of data and analytic services for organizations interested in using FIA data to improve their own work. Contact me to see how I can help!
+_**Contact me (information below) to see how I can help!**_
